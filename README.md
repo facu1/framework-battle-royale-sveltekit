@@ -14,10 +14,10 @@ Probando Angular, Next, Nuxt, SvelteKit, y Qwik.
 
 # Resultados Lighthouse report, mode: Navigation, Device: Mobile
 
--99 Performance
--100 Accessibility
--100 Best Practices
--100 SEO
+- 99 Performance
+- 100 Accessibility
+- 100 Best Practices
+- 100 SEO
 
 # Idea de [Gentleman Programming](https://github.com/Gentleman-Programming) - [Video](https://www.youtube.com/watch?v=D6D7QWTDeoQ)
 
