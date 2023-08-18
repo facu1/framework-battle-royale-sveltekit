@@ -1,3 +1,26 @@
+# Framework Battle Royale!
+
+Probando Angular, Next, Nuxt, SvelteKit, y Qwik.
+
+# Resultados SvelteKit en máquina local, en incógnito, con Chrome Profiler
+
+- 1ms Loading
+- 9ms Scripting
+- 8ms Rendering
+- 0ms Painting
+- 12ms System
+- 4997ms Idle
+- 5026ms Total
+
+# Resultados Lighthouse report, mode: Navigation, Device: Mobile
+
+-99 Performance
+-100 Accessibility
+-100 Best Practices
+-100 SEO
+
+# Idea de [Gentleman Programming](https://github.com/Gentleman-Programming) - [Video](https://www.youtube.com/watch?v=D6D7QWTDeoQ)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
